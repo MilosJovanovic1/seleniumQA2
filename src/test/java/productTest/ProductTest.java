@@ -145,7 +145,7 @@ public class ProductTest {
 
         Assert.assertTrue(ListManager.isListSortedAsc(prices), "Prices are not sort as expected"); ListManager.isListSortedAsc(prices);
 
-
+        System.out.println("TEST");
 
 
         //Assert.assertEquals();
